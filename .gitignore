@@ -1,4 +1,6 @@
 /.idea/
 /venv/
-links.txt
+goodlinks.txt
 .gitignore
+/.idea/
+/venv/
